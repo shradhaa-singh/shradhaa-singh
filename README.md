@@ -33,12 +33,10 @@ I am: <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+S
 </p>
 
 <H2>CONNECT WITH ME</H2>
-Linkdin: https://www.linkedin.com/in/shradhaasingh/
+Linkedin: https://www.linkedin.com/in/shradhaasingh/
 <br>
 GitHub: https://github.com/shradhaa-singh/
 <br>
 Gmail: shradhasingh72558@gmail.com
 <br>
 Leetcode: https://www.leetcode.com/shradhaa_singh
-
-
