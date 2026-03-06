@@ -1,15 +1,19 @@
 # Hi, I am Shradha Singh
 
 I am:  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Learning+DSA+and+Python;&center=false&width=450&height=30)
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;LeFrontend+Developer;&center=false&width=450&height=30">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=shradhaa-singh&color=blue)
 
 ---
 
 ## ABOUT ME
 - 🎓 Second year Computer Science Engineering (AI/ML) student  
-- 💻 Currently learning Python and Data Structures  
-- 🤖 Interested in Artificial Intelligence and Machine Learning  
-- 📚 I enjoy reading, writing, and drawing  
+- 💻 Skilled in **Python and C**, currently learning **Data Structures & Algorithms**  
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
+- 📚 I enjoy **reading, writing, and creative hobbies like drawing**  
+- 💡 Eager to **learn new skills and contribute to projects** 
 
 ---
 
