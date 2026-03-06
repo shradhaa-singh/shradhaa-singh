@@ -1,42 +1,50 @@
-<h1>Hi, I am Shradha Singh</h1>
-I am: <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Learning+DSA+and+Python;&center=false&width=450&height=30">
+# Hi, I am Shradha Singh
 
-<h2>ABOUT ME</h2>
-	•	🎓 Second year Computer Science Engineering (AI/ML) student<br>
-	•	💻 Currently learning Python and Data Structures<br>
-	•	🤖 Interested in Artificial Intelligence and Machine Learning<br>
-	•	📚 I enjoy reading, writing, and drawing<br>
+I am:  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Learning+DSA+and+Python;&center=false&width=450&height=30)
 
-<h2>EDUCATION</h2>
-🎓 B.Tech in Computer Science(AI/ML)<br>
-🏫 Dr. A.P.J. Abdul Kalam Technical University(AKTU)<br>  
-📊 GPA: 8.77/10
+---
 
-<h2>SKILLS</h2>
-🎀<b>Languages</b><br>
-  • C
-	•	Python
-	•	Java
-	•	C++
-	•	HTML
-	•	CSS
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java,cpp,html,css" />
-</p>
-🛠️<b>Tools</b><br>
-  • Git
-	•	GitHub
-	•	VS Code
-	•	Figma
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+## ABOUT ME
+- 🎓 Second year Computer Science Engineering (AI/ML) student  
+- 💻 Currently learning Python and Data Structures  
+- 🤖 Interested in Artificial Intelligence and Machine Learning  
+- 📚 I enjoy reading, writing, and drawing  
 
-<H2>CONNECT WITH ME</H2>
-Linkedin: https://www.linkedin.com/in/shradhaasingh/
-<br>
-GitHub: https://github.com/shradhaa-singh/
-<br>
-Gmail: shradhasingh72558@gmail.com
-<br>
-Leetcode: https://www.leetcode.com/shradhaa_singh
+---
+
+## EDUCATION
+- 🎓 **B.Tech in Computer Science (AI/ML)**  
+- 🏫 **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**  
+- 📊 **GPA:** 8.77/10  
+
+---
+
+## SKILLS
+
+**Languages:**  
+- C  
+- Python  
+- Java  
+- C++  
+- HTML  
+- CSS  
+
+![Skills](https://skillicons.dev/icons?i=c,python,java,cpp,html,css)
+
+**Tools:**  
+- Git  
+- GitHub  
+- VS Code  
+- Figma  
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
+
+---
+
+## CONNECT WITH ME
+- **LinkedIn:** [Shradha Singh](https://www.linkedin.com/in/shradhaasingh/)  
+- **GitHub:** [shradhaa-singh](https://github.com/shradhaa-singh/)  
+- **Gmail:** [shradhasingh72558@gmail.com](mailto:shradhasingh72558@gmail.com)  
+- **LeetCode:** [shradhaa_singh](https://www.leetcode.com/shradhaa_singh)
+ 
