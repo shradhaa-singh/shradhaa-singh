@@ -27,20 +27,10 @@ I am:
 ## SKILLS
 
 **Languages:**  
-- C  
-- Python  
-- Java  
-- C++  
-- HTML  
-- CSS  
-
+ 
 ![Skills](https://skillicons.dev/icons?i=c,python,java,cpp,html,css)
 
-**Tools:**  
-- Git  
-- GitHub  
-- VS Code  
-- Figma  
+**Tools:**   
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
