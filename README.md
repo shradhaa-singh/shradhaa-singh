@@ -1,7 +1,7 @@
 # Hi, I am Shradha Singh
 
 I am:  
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;LeFrontend+Developer;&center=false&width=450&height=30">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Frontend+Developer;&center=false&width=450&height=30">
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shradhaa-singh&color=blue)
@@ -40,5 +40,18 @@ I am:
 - **LinkedIn:** [Shradha Singh](https://www.linkedin.com/in/shradhaasingh/)  
 - **GitHub:** [shradhaa-singh](https://github.com/shradhaa-singh/)  
 - **Gmail:** [shradhasingh72558@gmail.com](mailto:shradhasingh72558@gmail.com)  
-- **LeetCode:** [shradhaa_singh](https://www.leetcode.com/shradhaa_singh)
+
+---
+
+## Coding Profiles
+
+- **LeetCode:** [shradhaa_singh](https://leetcode.com/shradhaa_singh) 
+- **Codeforces:** [shradhaa_singh](https://codeforces.com/profile/shradhaa_singh)  
+
+---
  
+ ## GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shradhaa-singh&theme=tokyo-night" />
+
+---
