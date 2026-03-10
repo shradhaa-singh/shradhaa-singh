@@ -10,7 +10,7 @@ I am:
 
 ## ABOUT ME
 - 🎓 Second year Computer Science Engineering (AI/ML) student  
-- 💻 Skilled in **Python and C**, currently learning **Data Structures & Algorithms**  
+- 💻 Skilled in **Python and C**, currently learning **Data Structures & Algorithms** in **Java**
 - 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
 - 📚 I enjoy **reading, writing, and creative hobbies like drawing**  
 - 💡 Eager to **learn new skills and contribute to projects** 
@@ -33,6 +33,7 @@ I am:
 **Tools:**   
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
+
 
 ---
 
