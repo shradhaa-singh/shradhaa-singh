@@ -44,14 +44,14 @@ I am:
 
 ---
 
-## Coding Profiles
+## CODING PROFILES
 
 - **LeetCode:** [shradhaa_singh](https://leetcode.com/shradhaa_singh) 
 - **Codeforces:** [shradhaa_singh](https://codeforces.com/profile/shradhaa_singh)  
 
 ---
  
- ## GitHub Activity
+ ## GITHUB ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shradhaa-singh&theme=tokyo-night" />
 
