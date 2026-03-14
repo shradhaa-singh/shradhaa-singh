@@ -57,3 +57,9 @@ I am:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shradhaa-singh&theme=tokyo-night" />
 
 ---
+
+## GITHUB STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shradhaa-singh&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shradhaa-singh)
