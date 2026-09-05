@@ -9,7 +9,7 @@ I am:
 ---
 
 ## ABOUT ME
-- 🎓 Second year Computer Science Engineering (AI/ML) student  
+- 🎓 Pre Final year Computer Science Engineering (AI/ML) student  
 - 💻 Skilled in **Python and C**, currently learning **Data Structures & Algorithms** in **Java**
 - 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
 - 📚 I enjoy **reading, writing, and creative hobbies like drawing**  
@@ -20,7 +20,7 @@ I am:
 ## EDUCATION
 - 🎓 **B.Tech in Computer Science (AI/ML)**  
 - 🏫 **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**  
-- 📊 **GPA:** 8.77/10  
+- 📊 **GPA:** 8.64/10  
 
 ---
 
